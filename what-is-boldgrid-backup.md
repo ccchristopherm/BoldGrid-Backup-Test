@@ -24,6 +24,9 @@ you can install it like this:
 There is an alternative way to install and activate the plugin if you
 are already using BoldGrid.
 
+    Code Block Tests
+	Random Blocks Inserted
+
 <pre class="code_block">RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://www.gunneria.com/$1 [R,L]</pre>
