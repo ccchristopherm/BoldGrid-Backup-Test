@@ -14,12 +14,19 @@ you can install it like this:
 
 1. Log into the BoldGrid admin area  
 ![Log in](http://cdn.inmotionhosting.com/support/images/stories/WP/WPlogin1.jpg) 
-2. Click _Plugins_
+2. Click _Plugins_  
+     <pre class="code_block">RewriteEngine On
+	 RewriteCond %{SERVER_PORT} 80
+	 RewriteRule ^(.*)$ https://www.gunneria.com/$1 [R,L]</pre>
 3. Click _Add New_
 4. Select the plugin from your Downloads folder
 
 There is an alternative way to install and activate the plugin if you
 are already using BoldGrid.
+
+<pre class="code_block">RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.gunneria.com/$1 [R,L]</pre>
 
 ![BG Backup for WordPress](http://cdn.inmotionhosting.com/support/images/stories/WP/export-wp.jpg) 
 
