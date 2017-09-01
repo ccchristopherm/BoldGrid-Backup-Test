@@ -19,4 +19,10 @@ are already using BoldGrid.
 
 
 You will see a variety of BoldGrid plugins available to install and
-activate. Select _BoldGrid Backup__.
+activate. Select __BoldGrid Backup__.
+
+<div class="in_this_tutorial">
+  <h2>In this tutorial:</h2>
+  <button type="button" class="btn btn-primary" onclick="trackAnchorClickSC('submit-pdesk-ticket');">Submit a Ticket</button>
+  <button type="button" class="btn btn-primary" onclick="trackAnchorClickSC('check-status');">Check Ticket Status</button>
+</div>
