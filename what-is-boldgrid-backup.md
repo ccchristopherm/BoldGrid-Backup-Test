@@ -8,6 +8,8 @@ BoldGrid backup is a **Free Plugin for WordPress** which lets you
 download and restore backups of your WordPress site. You can use this
 plugin with BoldGrid or without BoldGrid.
 
+> Changes added on tier1adv branch
+
 All you need to do is download backup plugin from
 [BoldGrid.com](http://cdn.inmotionhosting.com/support/images/stories/boldgrid/how-to-login/logging-into-boldgrid.png). Then
 you can install it like this:
