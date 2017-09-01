@@ -1,9 +1,15 @@
+<div class="in_this_tutorial">
+  <h2>In this tutorial:</h2>
+  <button type="button" class="btn btn-primary" onclick="trackAnchorClickSC('submit-pdesk-ticket');">Submit a Ticket</button>
+  <button type="button" class="btn btn-primary" onclick="trackAnchorClickSC('check-status');">Check Ticket Status</button>
+</div>
+
 BoldGrid backup is a **Free Plugin for WordPress** which lets you
 download and restore backups of your WordPress site. You can use this
 plugin with BoldGrid or without BoldGrid.
 
 All you need to do is download backup plugin from
-[BoldGrid.com](https://www.boldgrid.com/wordpress-backup-plugin/). Then
+[BoldGrid.com](http://cdn.inmotionhosting.com/support/images/stories/boldgrid/how-to-login/logging-into-boldgrid.png). Then
 you can install it like this:
 
 1. Log into the BoldGrid admin area  
@@ -20,9 +26,3 @@ are already using BoldGrid.
 
 You will see a variety of BoldGrid plugins available to install and
 activate. Select __BoldGrid Backup__.
-
-<div class="in_this_tutorial">
-  <h2>In this tutorial:</h2>
-  <button type="button" class="btn btn-primary" onclick="trackAnchorClickSC('submit-pdesk-ticket');">Submit a Ticket</button>
-  <button type="button" class="btn btn-primary" onclick="trackAnchorClickSC('check-status');">Check Ticket Status</button>
-</div>
