@@ -6,7 +6,8 @@ All you need to do is download backup plugin from
 [BoldGrid.com](https://www.boldgrid.com/wordpress-backup-plugin/). Then
 you can install it like this:
 
-1. Log into the BoldGrid admin area
+1. Log into the BoldGrid admin area  
+![Log in](http://cdn.inmotionhosting.com/support/images/stories/WP/WPlogin1.jpg) 
 2. Click _Plugins_
 3. Click _Add New_
 4. Select the plugin from your Downloads folder
