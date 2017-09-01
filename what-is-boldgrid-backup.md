@@ -14,8 +14,8 @@ you can install it like this:
 There is an alternative way to install and activate the plugin if you
 are already using BoldGrid.
 
-1. Log into the BoldGrid admin area
-2. Click _Plugins_
+![BG Backup for WordPress](http://cdn.inmotionhosting.com/support/images/stories/WP/export-wp.jpg) 
+
 
 You will see a variety of BoldGrid plugins available to install and
 activate. Select _BoldGrid Backup__.
